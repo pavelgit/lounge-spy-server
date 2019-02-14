@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "lounge-spy-server",
+  "env": "local",
+  "lounges": [
+     {
+      "name": "Lounge 1",
+      "spies": [1,2]
+    },
+   {
+      "name": "Lounge 2",
+      "spies": [1,2]
+    }
+  ]
+}

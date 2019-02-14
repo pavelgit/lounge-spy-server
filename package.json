@@ -1,0 +1,16 @@
+{
+  "name": "lounge-spy-server",
+  "version": "1.0.0",
+  "main": "sources/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node sources/index.js"
+  },
+  "dependencies": {
+    "koa": "2.6.1",
+    "koa-cors": "0.0.16",
+    "koa-router": "7.4.0",
+    "lodash": "4.17.11",
+    "node-fetch": "2.3.0"
+  }
+}
